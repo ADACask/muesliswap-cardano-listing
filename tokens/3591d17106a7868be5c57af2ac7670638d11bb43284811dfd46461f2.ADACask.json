@@ -1,0 +1,9 @@
+{
+    "policyId": "3591d17106a7868be5c57af2ac7670638d11bb43284811dfd46461f2",
+    "name": "ADACask",
+    "symbol": "CASK",
+    "website": "https://twitter.com/AdaCask",
+    "description": "The Blockchain Whisky Ecosystem for building up a Whisky Stake.",
+    "totalSupply": 999999999,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
